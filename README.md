@@ -1,2 +1,2 @@
 # esc
-Ensemble of Specialized Classifiers implementation
+Ensembles of Specialized Classifiers implementation
